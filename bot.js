@@ -223,4 +223,4 @@ client.user.setStatus("dnd")
 
 
 
-client.login(process.env.BOT_TOKEN);// لا تغير فيها شيء
+client.login(NTY5NTkzNzUzMzI5NzI5NTUw.XMqxQQ.6CBccBgQhFu54Z63k0ZbwA5Slys);// لا تغير فيها شيء
