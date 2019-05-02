@@ -2,9 +2,8 @@ const Discord = require("discord.js");
 const client = new Discord.Client();
 var prefix = "#";
 client.on('message', message => {
-    if (message.content == "#سرعه") {
-        var x = ["DreamKing",
-"DeathGames",
+    if (message.content == "#يلا") {
+        var x = ["Flyder",
 "زيرو كنج",
 "أرض الأحلام",
 "ألبرازيل",
@@ -40,6 +39,9 @@ client.on('message', message => {
 "Instgram",
 "Google",
 "Viber",
+"فلايدر",
+"Flyder",
+"لا تحزن",
 ];
         var x2 = ['DreamKing',
         "DeathGames",
